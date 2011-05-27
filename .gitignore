@@ -1,0 +1,15 @@
+# Art that shouldn't be in the repository yet.
+demo/static/media/artwork/*
+
+# Ignore modules that are being used with node.
+demo/node_modules
+
+# Edtior-specific files
+*.tmproject
+*.komodoproject
+
+# hidden files that aren't git specific
+.*
+!.gitignore
+!.gitmodules
+
