@@ -1,3 +1,7 @@
+# TODO Add support for jslint.
+# TODO Add support for minification.
+# TODO Add support for unit testing.
+
 # Parts that are shared between every variation of the media slider
 parts_base=parts/core.js
 
