@@ -9,13 +9,13 @@ var _create_native_xhr = (function _create_native_xhr () {
 
 _create_activex_xhr = (function _create_activex_xhr () {
 	return new window.ActiveXObject('Microsoft.XMLHTTP');
-});
+}),
 
 /**
  * An object which can be used in order to send requests to an HTTP
  * server on (almost) all browsers.
  */
-var HTTPRequest = (function HTTPRequest() {
+HTTPRequest = (function HTTPRequest() {
 });
 
 if (!window.ActiveXObject)
