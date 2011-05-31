@@ -4,6 +4,9 @@ demo/static/media/artwork/*
 # Ignore modules that are being used with node.
 demo/node_modules
 
+# Don't include built files in the repository
+src/dist/*
+
 # Edtior-specific files
 *.tmproject
 *.komodoproject
