@@ -1,2 +1,2 @@
-return media_slider;
+return MediaSlider;
 });
