@@ -1,0 +1,2 @@
+return media_slider;
+});
