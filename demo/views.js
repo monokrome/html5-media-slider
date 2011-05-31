@@ -1,11 +1,7 @@
 function index (req, res) {
-	res.writeHead(200, {
-		'Content-type': 'text/plain'
-	});
-
-	res.end('HTML5 Media Slider');
+	res.render('index.jade');
 }
 
 module.exports = {
-	'.*': index
+	'/': index
 };
