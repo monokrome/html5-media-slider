@@ -9,7 +9,7 @@
 	 * require.js the necessary configuration that we required in order
 	 * to bootstrap the codebase.
 	 */
-	var dependancies = ['mediaSlider'],
+	var dependancies = ['mediaSlider_r'],
 
 	// Some other modules may want to wait for this value to be true.
 	bootstrapped = false,
