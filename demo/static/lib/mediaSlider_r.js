@@ -1,0 +1,1 @@
+../../../src/dist/mediaSlider_r.js
