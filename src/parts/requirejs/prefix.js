@@ -1,1 +1,1 @@
-define('mediaSlider', [], function define_media_slider() {
+define([], function define_media_slider() {
