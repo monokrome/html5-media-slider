@@ -3,7 +3,8 @@
 # TODO Add support for unit testing.
 
 # Parts that are shared between every variation of the media slider
-parts_base=parts/core.js
+parts_base=parts/support.js \
+           parts/core.js
 
 # Files used by the generic library
 parts_generic=parts/generic/prefix.js \
